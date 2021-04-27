@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akkik04.
 - 👀 I’m interested in focusing on algorithms and machine learning.
-- 🌱 I’m currently learning JAVA and expanding my knowledge of PYTHON.
+- 🌱 I’m currently learning Python and C++ while expanding my previous knowledge of Java.
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me...
 
