@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @akkik04.
-- 👀 I’m interested in implementing and maintaining software and hardware (e.g., algorithms, circuits, machine learning, etc.)
-- 🌱 I’m currently working with the Arduino electronics and expanding my knowledge about Python.
-- 🤝 I’m looking to collaborate...
+# <p><img align="center" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="999" height="416" /></p>
+
+# Hi there, I'm Akshith Kandivanam 👋 
+
+#### I am currently a high school student at Ascension of Our Lord Secondary School with hopes of becoming a computer engineer.
+#
+- 💻 I’m interested in enhancing my knowledge of algorithms, data structures, dynamic programming and circuits.
+- 🔭 I’m currently working with the Arduino platform and exploring algorithms. I recently began learning about quantum algorithms.
+- 🤝 I’m open to discuss and collaborate on interesting projects.
 - 📫 How to reach me: Email - akshithkandivanam@gmail.com
 
 <!---
