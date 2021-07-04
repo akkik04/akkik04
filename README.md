@@ -2,7 +2,7 @@
 
 # Hi there, I'm Akshith Kandivanam 👋 
 
-#### I am currently a high school student at Ascension of Our Lord Secondary School with hopes of becoming a computer engineer.
+#### I am currently a high school student at Ascension of Our Lord Secondary School who aspires to become a computer engineer.
 #
 - 💻 I’m interested in enhancing my knowledge of algorithms, data structures, dynamic programming and circuits.
 - 🔭 I’m currently working with the Arduino platform and exploring algorithms. I recently began learning about quantum algorithms.
