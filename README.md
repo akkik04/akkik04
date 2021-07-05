@@ -1,4 +1,4 @@
-# <p><img align="center" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="999" height="326" /></p>
+# <p><img align="center" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="999" height="399" /></p>
 
 # Hi there, I'm Akshith Kandivanam 👋 
 
