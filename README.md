@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" height="400" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif">
+  <img width="800" height="400" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif">
 </p>
 
 # Hi there, I'm Akshith Kandivanam 👋 
