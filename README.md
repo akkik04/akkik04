@@ -7,7 +7,7 @@
 #### I am currently a high school student at Ascension of Our Lord Secondary School who aspires to become a computer engineer.
 #
 - 💻 I’m interested in enhancing my knowledge of algorithms, data structures, dynamic programming and circuits.
-- 🔭 I’m currently working with the Arduino platform and exploring algorithms. I recently began learning about quantum algorithms.
+- 🔭 I’m currently working with the Arduino platform and various Arduino modules, while solving and exploring algorithms.
 - 🤝 I’m open to discuss and collaborate on interesting projects.
 - 📫 How to reach me: Email - akshithkandivanam@gmail.com
 
