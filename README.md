@@ -5,6 +5,7 @@
 #
 - 💻 I’m interested in enhancing my knowledge of algorithms, data structures, dynamic programming and circuits.
 - 🔭 I’m currently working with the Arduino platform and various Arduino modules, while solving and exploring algorithms.
+- 💭 I'm in the process of building the hardware and software for an all-in-one (line-following, object detecting, etc..) robot car with multiple Arduino modules. Stay tuned to take a look!
 - 🤝 I’m open to discuss and collaborate on interesting projects.
 - 📫 How to reach me: Email - akshithkandivanam@gmail.com
 
