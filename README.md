@@ -3,9 +3,9 @@
 
 #### I am a Grade. 12 student at Ascension of Our Lord Secondary School who aspires to become a computer engineer.
 #
-- 💻 I’m interested in enhancing my knowledge of algorithms, data structures, dynamic programming and circuits.
-- 🔭 I’m currently working with the Arduino platform and various Arduino modules, while solving and exploring algorithms.
-- 💭 I'm in the process of building the hardware and software for an all-in-one (line-following, object detecting, etc..) robot car with multiple Arduino modules. Stay tuned to take a look!
+- 💻 I’m interested in further enhancing my knowledge of algorithms, data structures, dynamic programming and circuits.
+- 🔭 I’m currently working with the Arduino platform, and learning how to implement various algorithms and data structures.
+- 💭 I'm starting to introduce myself to the world of web-development. I plan on learning front-end development.
 - 🤝 I’m open to discuss and collaborate on interesting projects.
 - 📫 How to reach me: Email - akshithkandivanam@gmail.com
 
