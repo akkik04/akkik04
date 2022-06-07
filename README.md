@@ -5,7 +5,7 @@
 #
 - 💻 I’m interested in further enhancing my knowledge of algorithms, data structures, dynamic programming and circuits.
 - 🔭 I’m currently working with the Arduino platform, and learning how to implement various algorithms and data structures.
-- 💭 I'm starting to introduce myself to the world of web-development. I plan on learning front-end development.
+- 💭 I'm starting to delve deeper into C++ programming, getting ready for my university courses!
 - 🤝 I’m open to discuss and collaborate on interesting projects.
 - 📫 How to reach me: Email - akshithkandivanam@gmail.com
 
