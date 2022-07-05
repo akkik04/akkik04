@@ -1,12 +1,11 @@
 
-# Hi there, I'm Akshith Kandivanam 👋 
+## Hi there, I'm Akshith Kandivanam 👋 
 
-#### I am a Grade. 12 student at Ascension of Our Lord Secondary School who aspires to become a computer engineer.
-#
-- 💻 I’m interested in further enhancing my knowledge of algorithms, data structures, dynamic programming and circuits.
-- 🔭 I’m currently working with the Arduino platform, and learning how to implement various algorithms and data structures.
-- 💭 I'm starting to delve deeper into C++ programming, getting ready for my university courses!
-- 🤝 I’m open to discuss and collaborate on interesting projects.
+I'm an incoming Computer Engineering student at the University of Waterloo, with a passion for software development.
+- 💭 I’m interested in enhancing my knowledge about AI, Software-Hardware Interactions, and DSA
+- 💻 I’m currently working with the Arduino platform, and learning C++ to get ready for my university courses!
+- ✅ Current Skills: **Java**, **Python**, **Visual Studio**, **Git**, **Arduino** **&** **Microbit**
+- 🤝 My LinkedIn: [Akshith Kandivanam's LinkedIn](https://www.linkedin.com/in/akshith-kandivanam/)
 - 📫 How to reach me: Email - akshithkandivanam@gmail.com
 
 <!---
