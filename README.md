@@ -2,7 +2,7 @@
 ## Hi there, I'm Akshith Kandivanam 👋 
 
 I'm an incoming Computer Engineering student at the University of Waterloo, with a passion for software development.
-- 💭 I’m interested in enhancing my knowledge about AI, Software-Hardware Interactions, and DSA
+- 💭 I’m interested in enhancing my knowledge about AI, Embedded Software, and DSA
 - 💻 I’m currently working with the Arduino platform, and learning C++ to get ready for my university courses!
 - ✅ Current Skills: **Java**, **Python**, **Visual Studio**, **Git**, **Arduino** **&** **Microbit**
 - 🤝 My LinkedIn: [Akshith Kandivanam's LinkedIn](https://www.linkedin.com/in/akshith-kandivanam/)
