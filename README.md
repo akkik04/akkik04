@@ -12,9 +12,9 @@ I'm an incoming Computer Engineering student at the University of Waterloo, with
 {
   "Name" : "Akshith Kandivanam",
   "School" : "University of Waterloo",
-  "Program" : "Computer Engineering Co-op",
+  "Program" : "Computer Engineering, Honours, Co-op",
   "Year" : "First Year",
-  "Interests" : "Embedded Software / Machine Learning",
+  "Interests" : "Embedded Software / Machine Learning & AI",
 }
 ```
 
