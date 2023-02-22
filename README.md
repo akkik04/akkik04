@@ -2,9 +2,6 @@
 ## Hi there, I'm Akshith Kandivanam 👋 
 
 ~ Forging new paths in software innovation by championing a collaborative approach, while translating knowledge into measurable success
-
-#
-### 
 ```json
 {
   "My Overview": {
