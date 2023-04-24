@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Akshith Kandivanam 👋 
 
-~ Forging new paths in software innovation by championing a collaborative approach, while translating knowledge into measurable success
+~ Embracing new challenges and pushing boundaries by leveraging my knowledge and expertise to deliver measurable and impactful results! 🎯
 ```json
 {
   "My Overview": {
@@ -9,7 +9,7 @@
     "Name": "Akshith Kandivanam",
     "School": "University of Waterloo",
     "Program": "Computer Engineering, Honours, Co-op",
-    "Interests": "Machine Learning (Deep Learning) / Cloud Computing / Embedded Software",
+    "Interests": ["Machine Learning (Deep Learning)", "Backend Development", "Cloud Computing"],
     "Professional Experiences": [
       {
         "Organization": "BlackBerry",
