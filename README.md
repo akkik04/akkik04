@@ -13,7 +13,7 @@
     "Professional Experiences": [
       {
         "Organization": "Deep Breathe",
-        "Role": "Software Engineering Intern"
+        "Role": "Software Engineering Intern (ML Platform)"
       }
       {
         "Organization": "BlackBerry",
