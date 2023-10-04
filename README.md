@@ -4,23 +4,27 @@
 ~ Embracing new challenges and pushing boundaries by leveraging my knowledge and expertise to deliver measurable and impactful results! 🎯
 ```json
 {
-  "My Overview": {
-  
-    "Name": "Akshith Kandivanam",
-    "School": "University of Waterloo",
-    "Program": "Computer Engineering, Honours, Co-op",
-    "Interests": ["Machine Learning (Deep Learning)", "Backend Development", "Cloud Computing"],
-    "Professional Experiences": [
-      {
-        "Organization": "Deep Breathe",
-        "Role": "Software Engineering Intern (ML Platform)"
-      }
-      {
-        "Organization": "BlackBerry",
-        "Role": "Open-Source Developer Intern"
-      }
-    ]
-  }
+  "Name": "Akshith Kandivanam",
+  "School": "University of Waterloo",
+  "Major": "Computer Engineering, Honours, Co-op",
+  "Interests": ["Machine Learning (Deep Learning)", "Backend Development", "Cloud Computing"],
+  "Professional Experiences": [
+    {
+      "Organization": "Deep Breathe",
+      "Role": "Software Engineering Intern (ML Platform)"
+    },
+    {
+      "Organization": "BlackBerry",
+      "Role": "Open-Source Developer Intern"
+    }
+  ],
+  "Extracurriculars": [
+    {
+      "Extracurricular": "University of Waterloo AI Design Team (WAT.ai)",
+      "Role": "Machine Learning Engineer",
+      "Area of Focus": "GPU Optimization with Reinforcement Learning"
+    }
+  ]
 }
 
 ```
