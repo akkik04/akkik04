@@ -22,7 +22,7 @@
     {
       "Extracurricular": "University of Waterloo AI Design Team (WAT.ai)",
       "Role": "Machine Learning Engineer",
-      "Area of Focus": "GPU Optimization with Reinforcement Learning"
+      "Area of Focus": "Autonomous GPU Optimization with Reinforcement Learning"
     }
   ]
 }
