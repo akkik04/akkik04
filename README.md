@@ -10,11 +10,11 @@
   "Interests": ["Machine Learning (Deep Learning)", "Backend Development", "Cloud Computing"],
   "Professional Experiences": [
     {
-      "Organization": "Deep Breathe",
+      "Organization": "Deep Breathe AI",
       "Role": "Software Engineering Intern (ML Platform)"
     },
     {
-      "Organization": "BlackBerry",
+      "Organization": "BlackBerry Ltd.",
       "Role": "Open-Source Developer Intern"
     }
   ],
