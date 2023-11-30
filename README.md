@@ -11,11 +11,11 @@
   "Professional Experiences": [
     {
       "Organization": "Deep Breathe AI",
-      "Role": "Software Engineering Intern (ML Platform)"
+      "Role": "Software Engineer Intern (ML Platform)"
     },
     {
       "Organization": "BlackBerry Ltd.",
-      "Role": "Open-Source Developer Intern"
+      "Role": "Software Engineer Intern"
     }
   ],
   "Extracurriculars": [
