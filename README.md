@@ -14,7 +14,7 @@
       "Role": "Software Engineer Intern (ML Platform)"
     },
     {
-      "Organization": "BlackBerry Ltd.",
+      "Organization": "BlackBerry",
       "Role": "Software Engineer Intern"
     }
   ],
