@@ -10,12 +10,19 @@
   "Interests": ["Machine Learning (Deep Learning)", "Backend Development", "Cloud Computing"],
   "Professional Experiences": [
     {
+      "Organization": "Versa Networks",
+      "Role": "Software Engineer Intern",
+      "Areas of Focus": "Distributed Systems, Cloud Infrastructure, Machine Learning"
+    },
+    {
       "Organization": "Deep Breathe AI",
-      "Role": "Software Engineer Intern (ML Platform)"
+      "Role": "Software Engineer Intern",
+      "Areas of Focus": "Cloud Infrastructure, Database Systems, Serverless Designs, MLOps"
     },
     {
       "Organization": "BlackBerry",
-      "Role": "Software Engineer Intern"
+      "Role": "Software Engineer Intern",
+      "Areas of Focus": "Developer Tooling, DevOps, Backend Systems"
     }
   ],
   "Extracurriculars": [
