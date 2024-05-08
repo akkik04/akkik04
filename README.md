@@ -1,7 +1,5 @@
 
 ## Hi there, I'm Akshith Kandivanam 👋 
-
-~ Embracing new challenges and pushing boundaries by leveraging my knowledge and expertise to deliver measurable and impactful results! 🎯
 ```json
 {
   "Name": "Akshith Kandivanam",
