@@ -23,13 +23,6 @@
       "Areas of Focus": "Developer Tooling, DevOps, Backend Systems"
     }
   ],
-  "Extracurriculars": [
-    {
-      "Extracurricular": "University of Waterloo AI Design Team (WAT.ai)",
-      "Role": "Machine Learning Engineer",
-      "Area of Focus": "Autonomous GPU Optimization with Reinforcement Learning"
-    }
-  ]
 }
 
 ```
