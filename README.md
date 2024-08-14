@@ -5,7 +5,7 @@
   "Name": "Akshith Kandivanam",
   "School": "University of Waterloo",
   "Major": "Computer Engineering, Honours, Co-op",
-  "Interests": ["Machine Learning (Deep Learning)", "Backend Development", "Cloud Computing"],
+  "Interests": ["Distributed Systems", "Backend Development", "Cloud Infrastructure", "Monitoring/Observability" "MLOps"],
   "Professional Experiences": [
     {
       "Organization": "Versa Networks",
