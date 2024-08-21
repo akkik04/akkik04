@@ -10,7 +10,7 @@
     {
       "Organization": "Versa Networks",
       "Role": "Software Engineer Intern",
-      "Areas of Focus": "Distributed Systems, Cloud Infrastructure, Machine Learning"
+      "Areas of Focus": "Distributed Systems, Cloud Infrastructure, Monitoring/Observability"
     },
     {
       "Organization": "Deep Breathe AI",
