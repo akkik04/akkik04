@@ -1,4 +1,5 @@
 - computer engineering @ uwaterloo
 - prev: swe intern @ tesla autopilot & optimus
+- incoming: production engineering intern @ meta
 - interested in: distributed systems, HPC systems (low-latency, high-throughput infrastructure), and scalable agentic architectures
 - get in touch: [LinkedIn](https://www.linkedin.com/in/akshith-kandivanam/) | [akandiva@uwaterloo.ca](mailto:akandiva@uwaterloo.ca)
