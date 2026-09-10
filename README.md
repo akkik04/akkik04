@@ -1,5 +1,5 @@
-uwaterloo ece • prev: tesla autopilot, meta production engineering
+uwaterloo ece. prev: @ meta recsys, 2x @ tesla autopilot
 
-correctness is easy, systems reveal quality under load and at scale. that's the part i care about — robust distributed systems, low-latency design, and optimization problems.
+currently working on high-performance networking for Starlink & Colossus @ SpaceXAI
 
-akandiva@uwaterloo.ca
+i also like to write, [check it out](akshithkandivanam.net)
